@@ -3,6 +3,12 @@
 Doutora em Biologia Vegetal e mestre em Ecologia, fascinada pelas formas da vida. Especialista em Ecologia do Fogo, unindo análise em R, estatística e dados geoespaciais para revelar a beleza do conhecimento e o uso de ferramentas tecnológicas. Gestora que ama ensinar e transformar dados complexos em ciência que encanta e educa. 
 
 ---
+### 🎓 Diferenciais para Educação Digital (EdTech)
+
+- 💻 **Design Instrucional:** Experiência em transformar teses e dados científicos densos em trilhas de aprendizagem claras e encantadoras.
+- 📊 **Data Storytelling:** Uso de R e ferramentas geoespaciais para criar narrativas visuais que facilitam o aprendizado de biociências.
+- 🏛 **Gestão de Operações:** Expertise na coordenação de infraestrutura técnica e pedagógica, garantindo a qualidade da entrega final.
+- 🌐 **Foco em EAD:** Entusiasta de metodologias ativas e reestruturação de práticas científicas para o ambiente virtual.
 
 - 🔭 **Atualmente trabalhando em:** Gestão e coordenação estratégica de laboratórios de saúde e projetos de consultoria ambiental.
 - 🌱 **Atualmente aprendendo:** Aperfeiçoamento em avaliações geoespaciais e novas bibliotecas de visualização de dados em R.
